@@ -20,6 +20,7 @@ steps:
   abapEnvironmentRunATCCheck:
     abapCredentialsId: 'WRGCTS21_2'
     host: 'gprd.sapds.ru:44300'
+    client: '500'
     atcConfig: 'atcconfig.yml'
     dockerPullImage: false
   
