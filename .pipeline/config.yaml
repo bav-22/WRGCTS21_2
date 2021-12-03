@@ -7,4 +7,9 @@ steps:
     client: '500'
     abapCredentialsId: 'WRGCTS21_2'
     repository: 'bav-22-wrgcts21_2'
-   
+  gctsExecuteABAPUnitTests:
+    host: 'https://gprd.sapds.ru:44300'
+    client: '500'
+    abapCredentialsId: 'WRGCTS21_2'
+    repository: 'bav-22-wrgcts21_2'
+  
