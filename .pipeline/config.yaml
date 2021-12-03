@@ -3,7 +3,7 @@ general:
   verbose: true
 steps:
   gctsDeploy:
-    host: 'http://gprd.sapds.ru:8000'
+    host: 'http://gprd.sapds.ru:44300'
     client: '500'
     abapCredentialsId: 'WRGCST21_2'
     repository: 'bav-22-wrgcts21_2'
